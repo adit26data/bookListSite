@@ -1,0 +1,52 @@
+body {
+    background-image: url("http://www.wallpapermania.eu/images/lthumbs/2014-01/6671_Beautiful-white-nature-sunlight-over-the-snow.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.display-4 {
+    font-weight: bold;
+    font-family: 'sans-serif';
+
+}
+
+form {
+    font-weight: bold;
+}
+
+textarea {
+    color: black;
+}
+
+label {
+    font-family: 'sans-serif';
+    font-size: 30px;
+}
+
+input[type="text"] {
+    background: transparent;
+    width: 90%;
+
+}
+
+input[value="Add Book"] {
+    font-family: 'sans-serif';
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+th {
+    font-family: 'sans-serif';
+}
+
+td {
+    font-family: 'sans-serif';
+
+}
