@@ -1,5 +1,5 @@
 body {
-    background-image: url("http://www.wallpapermania.eu/images/lthumbs/2014-01/6671_Beautiful-white-nature-sunlight-over-the-snow.jpg");
+    background-image: url("https://images.unsplash.com/photo-1594312915251-48db9280c8f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80");
 
     /* Full height */
     height: 100%;
@@ -13,7 +13,7 @@ body {
 
 .display-4 {
     font-weight: bold;
-    font-family: 'Pacifico',cursive;
+    font-family: 'sans-serif';
 
 }
 
@@ -26,8 +26,8 @@ textarea {
 }
 
 label {
-    font-family: 'Pacifico',cursive;
-    font-size: 30px;
+    font-family: 'sans-serif';
+    font-size: 20px;
 }
 
 input[type="text"] {
@@ -37,16 +37,20 @@ input[type="text"] {
 }
 
 input[value="Add Book"] {
-    font-family: 'Pacifico',cursive;
+    font-family: 'sans-serif';
     border-radius: 20px;
     font-weight: bold;
 }
 
 th {
-    font-family: 'Pacifico',cursive;
+    font-family: 'sans-serif';
 }
 
 td {
-     font-family: 'Pacifico',cursive;
+    font-family: 'sans-serif';
 
+}
+
+.span {
+    color: white;
 }
